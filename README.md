@@ -13,7 +13,7 @@ A unified Tampermonkey userscript built to capture and download high-resolution 
 ## ⚠️ Critical Setup & Quirks
 
 * **Reading Direction (MANDATORY):** You MUST set the site's reading direction to **Vertical (Scroll Up to Down)**. The script will not function correctly in Right-to-Left mode.
-* **Webtoon Counter Quirk:** When using Webtoon Mode, the total page counter may occasionally display one extra image (e.g., showing 46 total when there are only 45 actual images). This is normal and will not affect the download.
+
 * **Auto-Scroll Recommendation:** It is highly recommended to use the script's built-in Auto Scroll rather than scrolling manually, as it perfectly synchronizes with the image capture hooks.
 
 ## 🚀 Installation & Usage
